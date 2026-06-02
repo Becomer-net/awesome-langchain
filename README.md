@@ -88,7 +88,8 @@ List of non-official ports of LangChain to other languages.
 
 ### Agents
 
-- [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
+- [Private GPT](https://github.com/imartinez/privateGPT): Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- ![GitHub Repo stars](https://img.shields.io/github/stars/imartinez/privateGPT?style=social)
 -[becomer-agents](https://github.com/Becomer-net/becomer-agents): Open-source multi-agent framework with persistent
   cross-run memory — each agent gets its own namespace, self-improving pipelines, zero tokens on recall. ![GitHub Repo
   stars](https://img.shields.io/github/stars/Becomer-net/becomer-agents?style=social)
